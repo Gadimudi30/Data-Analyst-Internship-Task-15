@@ -1,0 +1,24 @@
+Champions:
+- Reward with loyalty programs
+- Early access to new products
+- Ask for referrals
+
+Loyal Customers:
+- Upsell premium products
+- Offer bundles/discounts
+- Regular engagement emails
+
+Potential Loyalists:
+- Personalized offers
+- Reminder campaigns
+- Limited-time discounts
+
+At Risk:
+- Win-back campaigns
+- Special coupons
+- Customer feedback surveys
+
+Hibernating:
+- Re-engagement emails
+- Seasonal promotions
+- Consider removing from costly campaigns
